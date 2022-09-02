@@ -1,0 +1,28 @@
+h1  {
+  color:  red;
+  text-align:  center;
+}
+li  {
+  color:  #29AB87;
+  font-size:  15px;
+  line-height:  15px;
+}
+a {
+  font-style:  oblique;
+}
+strong  {
+  font-family:  Lucida Sans;
+  font-weight:  bolder;
+}
+p {
+  text-align:  center;
+}
+h2  {
+  text-align:  center;
+}
+.photo  {
+  text-align:  center;
+}
+.list  {
+  margin-left: 45%
+}
