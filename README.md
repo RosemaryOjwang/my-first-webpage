@@ -17,7 +17,7 @@ _A demonstration site showcasing HTML block elements and CSS_
 
 * _Clone this repository to your Desktop._
 * _Navigate to the top level of the directory_
-* _open index.html in your browser_
+* _open [index.html](index.html) in your browser_
 
 
 ## Known Bugs
